@@ -51,7 +51,7 @@ This project is designed to detect fraudulent calls using machine learning algor
 
 **Usage**
 
-1.  bashCopy codepython app.pyOpen your browser and go to http://127.0.0.1:5000 to use the app.
+1.  python app.pyOpen your browser and go to http://127.0.0.1:5000 to use the app.
     
 2.  **Make Predictions**:Enter call details into the web interface to get a fraud prediction.
     
